@@ -28,6 +28,45 @@
   color: #61dafb;
 }
 
+.form-container{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin-top: 100px;
+}
+
+.social-login span img{
+  width: 45px;
+  margin-left: 20px;
+  border: none !important;
+  margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
